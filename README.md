@@ -1,6 +1,6 @@
 # maven-project
 Source code for learning Jenkins by James on Udimy.
 
-Check out our Latest DevOps PDF book.
+Check out a good documentation at
 
 https://www.level-up.one/devops-pdf-book
